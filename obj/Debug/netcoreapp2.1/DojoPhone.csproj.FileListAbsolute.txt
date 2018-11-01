@@ -1,0 +1,11 @@
+C:\Users\jason\C#\OOP\DojoPhone\bin\Debug\netcoreapp2.1\DojoPhone.deps.json
+C:\Users\jason\C#\OOP\DojoPhone\bin\Debug\netcoreapp2.1\DojoPhone.runtimeconfig.json
+C:\Users\jason\C#\OOP\DojoPhone\bin\Debug\netcoreapp2.1\DojoPhone.runtimeconfig.dev.json
+C:\Users\jason\C#\OOP\DojoPhone\bin\Debug\netcoreapp2.1\DojoPhone.dll
+C:\Users\jason\C#\OOP\DojoPhone\bin\Debug\netcoreapp2.1\DojoPhone.pdb
+C:\Users\jason\C#\OOP\DojoPhone\obj\Debug\netcoreapp2.1\DojoPhone.csprojAssemblyReference.cache
+C:\Users\jason\C#\OOP\DojoPhone\obj\Debug\netcoreapp2.1\DojoPhone.csproj.CoreCompileInputs.cache
+C:\Users\jason\C#\OOP\DojoPhone\obj\Debug\netcoreapp2.1\DojoPhone.AssemblyInfoInputs.cache
+C:\Users\jason\C#\OOP\DojoPhone\obj\Debug\netcoreapp2.1\DojoPhone.AssemblyInfo.cs
+C:\Users\jason\C#\OOP\DojoPhone\obj\Debug\netcoreapp2.1\DojoPhone.dll
+C:\Users\jason\C#\OOP\DojoPhone\obj\Debug\netcoreapp2.1\DojoPhone.pdb
